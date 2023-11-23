@@ -68,7 +68,7 @@
     left: 0;
     bottom: 0;
     z-index: 10;
-    background-image: url(/img/visual-cloud.png);
+    background-image: url(/baskinrobbins/img/visual-cloud.png);
     background-position: center top;
     background-size: cover;
 }
@@ -77,13 +77,13 @@
     background-position: center center;
 }
 .visual .visual-1 {
-    background-image: url(/img/main-visual-1.jpg);
+    background-image: url(/baskinrobbins/img/main-visual-1.jpg);
 }
 .visual .visual-2 {
-    background-image: url(/img/main-visual-2.jpg);
+    background-image: url(/baskinrobbins/img/main-visual-2.jpg);
 }
 .visual .visual-3 {
-    background-image: url(/img/main-visual-3.jpg);
+    background-image: url(/baskinrobbins/img/main-visual-3.jpg);
 }
 .slide-tit {
     display: flex;
@@ -251,7 +251,7 @@
     left: 0;
     bottom: -60px;
     z-index: -10;
-    background-image: url(/img/menu-sec-cloud.png);
+    background-image: url(/baskinrobbins/img/menu-sec-cloud.png);
     background-position: center center;
 }
 .menu-wrap .menu-box {
@@ -358,7 +358,7 @@
     margin-top: 150px;
     padding: 130px 0;
     text-align: center;
-    background: url(/img/search-sec-bg-icon.png) center center no-repeat;
+    background: url(/baskinrobbins/img/search-sec-bg-icon.png) center center no-repeat;
     background-color: #ffb2ce;
 }
 .search-tit strong {

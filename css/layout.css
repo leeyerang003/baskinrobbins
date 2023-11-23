@@ -18,7 +18,7 @@
   display: block;
   width: 167px;
   height: 50px;
-  background-image: url(/img/header-logo.png);
+  background-image: url(/baskinrobbins/img/header-logo.png);
   text-indent: -9999px;
 }
 /***** gnb-s *****/
@@ -276,7 +276,7 @@ footer .logo-f a {
   display: inline-block;
   width: 167px;
   height: 50px;
-  background-image: url(/img/footer-logo.png);
+  background-image: url(/baskinrobbins/img/footer-logo.png);
   text-indent: -9999px;
 }
 footer .footer-wrap {
